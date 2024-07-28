@@ -11,3 +11,5 @@ Model (ส่วนเสริม) ในเครื่องคัดแย�
 วิดีโออธิบาย : https://youtu.be/Z7F2AVMnU4g
 
 Prototype Model : https://universe.roboflow.com/reallilin/bottle-mtegh 
+
+Best Hackathon Award TobeIT'67
